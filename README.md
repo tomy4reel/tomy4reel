@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomy4reel
 - 👀 I’m interested in machine learning projects
 - 🌱 I’m currently developing my engineering skills
-- 💞️ I’m looking to collaborate on backends/database management
+- 💞️ I’m looking to collaborate on backends/data management
 - 📫 How to reach me: drop a message on adetomiwa.adedeji@yahoo.com
 
 <!---
