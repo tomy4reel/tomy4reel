@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomy4reel
-- 👀 I’m interested in relational database management
+- 👀 I’m interested in database management
 - 🌱 I’m currently developing my engineering skills
-- 💞️ I’m looking to collaborate on machine learning projects
+- 💞️ I’m looking to collaborate on relational db projects
 - 📫 How to reach me: drop a message on adetomiwa.adedeji@yahoo.com
 
 <!---
