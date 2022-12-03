@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomy4reel
-- 👀 I’m interested in database management
+- 👀 I’m interested in data science projects
 - 🌱 I’m currently developing my engineering skills
-- 💞️ I’m looking to collaborate on db management projects
+- 💞️ I’m looking to collaborate on AI/ML/Data Science projects
 - 📫 How to reach me: drop a message on adetomiwa.adedeji@yahoo.com
 
 <!---
